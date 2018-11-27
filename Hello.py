@@ -1,1 +1,1 @@
-print('Just a test!')def dl():  print('Come back soon!')def dl2():    print('wuwu Dalian kuaihuilaima')def dl3():    print('Dalian zaibuhuilai Meng youyaokule')dl3()
+print('Just a test!')def dl():  print('Come back soon!')dl()
